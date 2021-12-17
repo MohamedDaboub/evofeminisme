@@ -1,0 +1,176 @@
+body a{
+    text-decoration: none;
+}
+.tweet__intro{
+    text-align: center;
+    font-family:'Basic', sans-serif;
+    font-size: 1rem;
+}
+main section h3 {
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    font-size: 1rem;
+}
+main section img{
+    text-align:center;
+    margin:auto;
+    display:flex;
+}
+.tweet__titre{
+    text-align: center;
+}
+.fig__art{
+    margin-top: 25px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+}
+figure img{
+    text-align:center;
+    margin:auto;
+    display:flex;
+    margin-top: 20px;
+    margin-bottom: 15px;
+
+}
+figure figcaption{
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.text__art{
+    margin: 20px;
+    font-family:'Mulish', sans-serif ;
+    font-size: 1.05rem;
+    margin-left: 20px;
+}
+
+
+.frise{
+    color: #f00;
+}
+.espace__titre{
+    text-align: center;
+    margin-top: -1px;
+    box-shadow: 6px 5px 6px #000;
+    margin-bottom: 40px;
+
+}
+.espace__tweet{
+    margin-top: -1px;
+    background-color: #111F69;
+    font-size: 2rem;
+    font-family: 'Tinos', serif;
+    color: white;
+    padding: 20px;
+    padding-right: 40px;
+    box-shadow: 6px 5px 6px #000;
+}
+/* galerie css*/
+.galerie{
+    text-align: center;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 1.6rem ;
+    margin-top: 20px;
+}
+.img__gal{
+    text-align:center;
+    margin:auto;
+    display:flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    max-width: 80%;
+}
+.text__gal{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: 'Mulish', sans-serif;
+}
+.trait{
+    font-size: 17px;
+    border-bottom: 1px solid black;
+    height: 115px;
+    margin-bottom: 50px;
+}
+/* contact*/
+.text__contact{
+    margin: 25px;
+    font-family:'Mulish', sans-serif ;
+    font-size: 17px ;
+    line-height: 150%;
+}
+
+.bu__foot{
+    
+    background-color: #111F69 ;
+    color: white;
+    font-family:'Mulish', sans-serif;
+    font-size: 1rem;
+    width: 290px;
+    border: 10;
+    line-height: 2.5;
+    padding: 0 20px;
+    text-shadow: 1px 1px 1px #000;
+    margin-bottom: 60px;
+    margin-top: 20px;
+}
+.bu__a{
+    text-align: center;
+}
+
+.text__formulaire{
+    margin: 30px;
+
+}
+.formulaire{
+    margin: 30px;
+    border-radius: 15px;
+    line-height: 1.5;
+}
+/*  glossaire*/ 
+.glossaire{
+    margin: 30px;
+}
+.mots{
+    margin-bottom: 15px;
+}
+dt, strong{
+    margin-top: 20px;
+}
+
+/*article*/
+article a{
+    color: #00f;
+}
+
+
+/**/
+#myBtn {
+    display: block;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    padding: 12px;
+    border-radius: 4px;
+    margin-bottom: 30px;
+}
+.fa, .fab, .fad, .fal, .far, .fas {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+}
+.fa, .fas {
+    font-weight: 900;
+}
+.fa-chevron-up:before {
+    content: "\f077";
+}

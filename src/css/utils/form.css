@@ -1,0 +1,27 @@
+figure{
+    background-color: #1D096B;
+    font-size: 1rem;
+    font-family: 'Mulish', sans-serif;
+    font-weight: lighter;
+    color: white;
+}
+.article{
+    margin: 15px;
+    color: black;
+    font-family: 'Mulish', sans-serif;
+    font-size: 1rem;
+}
+h1{
+    background-color: #111F69;
+    font-size: 2rem;
+    font-family: 'Tinos', serif;
+    color: white;
+    padding: 20px;
+    padding-right: 40px;
+}
+.titre__h2{
+    font-size: 1.8rem;
+    font-family: 'Source Serif Pro', serif;
+    color: black;
+    margin-left: 20px;
+}
