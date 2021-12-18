@@ -43,17 +43,6 @@ figure figcaption{
     margin-left: 20px;
 }
 
-
-.frise{
-    color: #f00;
-}
-.espace__titre{
-    text-align: center;
-    margin-top: -1px;
-    box-shadow: 6px 5px 6px #000;
-    margin-bottom: 40px;
-
-}
 .espace__tweet{
     margin-top: -1px;
     background-color: #111F69;
@@ -95,7 +84,7 @@ figure figcaption{
     margin: 25px;
     font-family:'Mulish', sans-serif ;
     font-size: 17px ;
-    line-height: 150%;
+    line-height: 165%;
 }
 
 .bu__foot{
@@ -124,6 +113,7 @@ figure figcaption{
     margin: 30px;
     border-radius: 15px;
     line-height: 1.5;
+    width: 285px;
 }
 /*  glossaire*/ 
 .glossaire{
@@ -173,4 +163,11 @@ article a{
 }
 .fa-chevron-up:before {
     content: "\f077";
+}
+.espace__titre{
+    text-align: center;
+    margin-top: -1px;
+    box-shadow: 6px 5px 6px #000;
+    margin-bottom: 40px;
+
 }

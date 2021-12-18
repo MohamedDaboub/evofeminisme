@@ -36,14 +36,14 @@ ul, li{
   border-radius: 12px;
   position: relative;
 }
-li{
+.trait__time{
   padding-bottom: 1.5rem;
   border-left: 1px solid #abaaed;
   position: relative;
   padding-left: 20px;
   margin-left: 10px;
   }
-li:before{
+.trait__time:before{
     content: '';
     width: 15px;
     height: 15px;
@@ -56,17 +56,9 @@ li:before{
     left: -10px;
     top: 0px;
 }
-
-
-.time{
-  color: #2a2839;
-  font-family: 'Poppins', sans-serif;
-  font-weight: 500;
-
-}
 .text__time{
   color: #4f4f4f;
-      font-family: sans-serif;
+  font-family: sans-serif;
   line-height: 1.5;
   margin-top:0.4rem;
 
