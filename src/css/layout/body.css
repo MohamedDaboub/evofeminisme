@@ -28,13 +28,14 @@ figure img{
     text-align:center;
     margin:auto;
     display:flex;
-    margin-top: 20px;
-    margin-bottom: 15px;
+    padding: 20px;
 
 }
 figure figcaption{
-    margin-bottom: 20px;
-    margin-left: 20px;
+    text-align: center;
+    margin: auto;
+    padding: 20px 0;
+    padding-bottom: 30px;
 }
 .text__art{
     margin: 20px;
