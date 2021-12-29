@@ -1,10 +1,8 @@
+*{
+    box-sizing: border-box;
+}
 body a{
     text-decoration: none;
-}
-.tweet__intro{
-    text-align: center;
-    font-family:'Basic', sans-serif;
-    font-size: 1rem;
 }
 main section h3 {
     text-align: center;
@@ -171,4 +169,33 @@ article a{
     box-shadow: 6px 5px 6px #000;
     margin-bottom: 40px;
 
+}
+/* autre projet */
+
+.descriptif{
+    color: #707070;
+    font-size: 1.2rem;
+}
+.descriptif span {
+    margin-left: 150px;
+    display: block;
+    margin-bottom: 70px;
+}
+.descriptif {
+    clear: both;
+}
+.descriptif img {
+    float: left;
+}
+
+/**/
+.image__article{
+    max-width: 55%;
+}
+.depla{
+    margin-left: -10px;
+}
+.depla1{
+    margin-right: 0px;
+    margin-top: -150px;
 }

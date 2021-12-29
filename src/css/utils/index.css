@@ -4,22 +4,12 @@
     margin-left: 15px;
     margin-right: 20px;
 }
-
-.tweet{
-    text-decoration: white;
-    color: white;
-}
-
-
 body .tweet p{
     margin: 20px;
     color: white;
     text-align: center;
     font-size: 1rem;
     font-family: 'Basic', sans-serif;
-}
-body a{
-    text-decoration: none;
 }
 .tweet{
     margin-bottom: 40px;
@@ -38,10 +28,6 @@ hr {
     margin-left: 20px;
     margin-right: 20px;
 }
-body{
-    text-decoration: none;
-}
-
 .tweet{
     background-color: #1D096B;
     color: #fff;

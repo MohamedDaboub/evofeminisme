@@ -2,14 +2,25 @@ footer{
     box-sizing: border-box;
     background-color: #1D096B;
     color: #fff;
-    font-size: 13px;
+    font-size: 15px;
     font-family: 'Raleway', sans-serif;
     text-align: center;
     box-shadow: 0 -2px 15px 1px rgb(0 0 0 / 80%);
 }
+footer{
+    padding: 10px;
+    top: 10px;
+}
 footer a{
     text-decoration: underline;
     color: white;
+}
+footer p {
+    margin-bottom: 20px;
+}
+footer a img{
+    width: 24px;
+    height: 24px;
 }
 .footer__espace{
     border: none;
@@ -21,15 +32,4 @@ footer a{
     margin-right: auto;
     width: 100px;
     height: 100px;
-}
-footer{
-    padding: 10px;
-    top: 10px;
-}
-footer a img{
-    width: 20px;
-    height: 20px;
-}
-footer p {
-    margin-bottom: 20px;
 }
