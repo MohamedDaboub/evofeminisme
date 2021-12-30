@@ -86,7 +86,8 @@
 }
 .menu a {
     color: white;
-    text-shadow: #FC0 1px 0 10px;
+   /* text-shadow: #000 1px 0 10px;*/
+    text-shadow: #000 8px 6px 7px;
 }
 .menu-open .menu li {
     transform: translateX(0);

@@ -1,3 +1,10 @@
 body {
     font-family: 'Mulish', sans-serif;
 }
+video{
+    align-items: center;
+    display: block;
+    margin: auto;
+    max-width: 80%;
+    width: 600px;
+}
