@@ -1,4 +1,4 @@
-body {
+main {
     font-family: 'Mulish', sans-serif;
 }
 video{
@@ -7,4 +7,14 @@ video{
     margin: auto;
     max-width: 80%;
     width: 600px;
+}
+main section h3 {
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    font-size: 1rem;
+}
+main section img{
+    text-align:center;
+    margin:auto;
+    display:flex;
 }

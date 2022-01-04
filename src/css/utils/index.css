@@ -18,6 +18,8 @@ body .tweet p{
     color: white;
     font-size: 23px;
     font-family: 'Basic', sans-serif;
+    margin: 0 20px;
+    padding: 14px ;
 }
 hr {
     height: 1px;
