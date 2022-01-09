@@ -1,13 +1,13 @@
 .styled {
     border: 0;
     line-height: 2.5;
-    padding: 5px 1.25rem;
+    padding: 10px 1.25rem;
     font-size: 1rem;
     font-family: 'Mulish', sans-serif;
-    color: #000;
-    text-shadow: 1px 1px 1px #000;
+    color: var(--couleur-typo---noir);
+    text-shadow: 1px 1px 1px var(--couleur-typo---noir);
     border-radius: 10px;
-    background-color: #DD78CD;;
+    background-color: var(--couleur--rose);
     background-image: linear-gradient(to top left,
                                       rgba(0, 0, 0, .2),
                                       rgba(0, 0, 0, .2) 30%,
@@ -34,7 +34,7 @@
     font-family: 'Mulish', sans-serif;
     text-align: center;
     color: #fff;
-    text-shadow: 1px 1px 1px #000;
+    text-shadow: 1px 1px 1px var(--couleur-typo---noir);
     border-radius: 10px;
     margin-bottom: 15px;
     display: block;
@@ -45,6 +45,9 @@
                                       rgba(0, 0, 0, 0));
     box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
                 inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+.linhe{
+    line-height: 2.9;
 }
 
 .styled__page:hover {
@@ -58,8 +61,6 @@
 .tweet__btn{
     text-align: center;
     margin: auto;  
-    display: table;
-    height:3.125rem;
     padding-bottom: 15px;
 }
 .btn__back{
@@ -87,7 +88,7 @@
     font-family: 'Mulish', sans-serif;
     text-align: center;
     color: #fff;
-    text-shadow: 1px 1px 1px #000;
+    text-shadow: 1px 1px 1px var(--couleur-typo---noir);
     border-radius: 0.625rem;
     margin-bottom: 0.938rem;
     display: block;
@@ -109,5 +110,5 @@
                 inset 2px 2px 3px rgba(0, 0, 0, .6);
 }
 .btn{
-    padding: 0 0.30rem;
+    padding: 0 0.4rem;
 }

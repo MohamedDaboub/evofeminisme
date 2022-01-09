@@ -13,10 +13,9 @@ body a{
     border-radius: 15px;
 }
 .text__art{
-    margin: 20px;
+    margin: 1.25rem;
     font-family:'Mulish', sans-serif ;
     font-size: 1.05rem;
-    margin-left: 20px;
 }
 
 .espace__tweet{
@@ -33,33 +32,32 @@ body a{
 .galerie{
     text-align: center;
     font-family: 'Source Serif Pro', serif;
-    font-size: 1.6rem ;
+    font-size: var(--heading-2) ;
     margin-top: 20px;
 }
 .img__gal{
     text-align:center;
     margin:auto;
     display:flex;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
     max-width: 80%;
 }
 .text__gal{
-    margin-left: 20px;
-    margin-right: 20px;
+    margin: 0 1.25rem;
     font-family: 'Mulish', sans-serif;
 }
 .trait{
-    font-size: 17px;
+    font-size: var(--body1);
     border-bottom: 1px solid black;
-    height: 115px;
-    margin-bottom: 50px;
+    height: 7.188rem;
+    margin-bottom: 3.125rem;
 }
 /* contact*/
 .text__contact{
     margin: 25px;
     font-family:'Mulish', sans-serif ;
-    font-size: 17px ;
+    font-size: 1.063rem ;
     line-height: 165%;
 }
 
@@ -91,6 +89,9 @@ body a{
     line-height: 1.5;
     width: 285px;
 }
+.champsobli{
+    margin: 20px;
+}
 /*  glossaire*/ 
 .glossaire{
     margin: 30px;
@@ -104,7 +105,7 @@ dt, strong{
 
 /*article*/
 article a{
-    color: #00f;
+    color: var(--couleur-typo--bleu);
 }
 
 
@@ -125,7 +126,7 @@ article a{
 .descriptif span {
     margin-left: 150px;
     display: block;
-    margin-bottom: 70px;
+    margin-bottom: 135px;
 }
 .descriptif {
     clear: both;
@@ -136,7 +137,8 @@ article a{
 
 /**/
 .image__article{
-    max-width: 55%;
+    width: 100px;
+    height: 100px;
 }
 .depla{
     margin-left: -10px;
@@ -144,4 +146,11 @@ article a{
 .depla1{
     margin-right: 0px;
     margin-top: -150px;
+}
+.centre{
+    margin: 1.25rem 6.5rem;
+}
+
+.dwon{
+    margin-bottom: 4rem;
 }

@@ -1,20 +1,18 @@
 :root{
     /* Color styles */
---couleur-typo--blanc: rgba(239, 239, 239, 1);
 --couleur-typo--bleu: rgba(0, 0, 255, 1);
---couleur-typo--gray: rgba(205, 202, 199, 1);
---couleur-typo--rouge: rgba(221, 0, 0, 1);
---couleur-typo--gray1: rgba(213, 213, 213, 1);
+--couleur-typo---rouge: rgba(221, 0, 0, 1);
 --couleur-typo--blanc: rgba(255, 255, 255, 1);
---couleur-typo--noir: rgba(0, 0, 0, 1);
---couleur--darkkhaki: rgba(189, 183, 107, 1);
---couleur--bleufoncé: rgba(29, 9, 107, 1);
---couleur--bleufoncé1: rgba(17, 31, 105, 1);
---couleur--violet-claire: rgba(199, 149, 234, 1);
+--couleur-typo---noir: rgba(0, 0, 0, 1);
+--couleur--dark-khaki: rgba(189, 183, 107, 1);
+--couleur--bleu-foncé: rgba(29, 9, 107, 1);
+--couleur--bleu-foncé-1: rgba(17, 31, 105, 1);
+--couleur--rose: rgba(221, 120, 205, 1);
+--couleur--violet-claire: rgba(171, 170, 237, 1);
 
 /* Text-size styles */
-/* base size: texte-petit (16px) */
---button: 0.62rem;
+/* base size: button (16px) */
+--button: 1rem;
 --heading-1: 2.19rem;
 --heading-2: 1.56rem;
 --body1: 1.06rem;
@@ -22,6 +20,6 @@
 --menu: 1.62rem;
 --titre-intro-article: 1.44rem;
 --intro-article: 0.81rem;
---footer: 0.81rem;
+--footer: 0.94rem;
 --header: 1rem;
 }

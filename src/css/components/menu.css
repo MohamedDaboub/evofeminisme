@@ -77,6 +77,8 @@
     font-size: 1.625rem;
     text-transform: uppercase;
     margin: 10px;
+    font-family:'Yaldevi', sans-serif;
+    font-weight: 600;
 }
 .menu li {
     margin-bottom: 35px;
@@ -86,7 +88,6 @@
 }
 .menu a {
     color: white;
-   /* text-shadow: #000 1px 0 10px;*/
     text-shadow: #000 8px 6px 7px;
 }
 .menu-open .menu li {

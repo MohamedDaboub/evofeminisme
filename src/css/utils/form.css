@@ -24,5 +24,13 @@ h1{
     font-size: 1.8rem;
     font-family: 'Source Serif Pro', serif;
     color: black;
-    margin-left: 20px;
+    margin: 1.5rem 1.25rem;
+}
+dt{
+    font-family: 'Mulish', sans-serif;
+    font-size: 1rem;
+}
+dd{
+    font-family: 'Mulish', sans-serif;
+    font-size: 1rem;
 }
