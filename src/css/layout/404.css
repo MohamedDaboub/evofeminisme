@@ -1,16 +1,15 @@
-/* .couleur__404{
-    background-color: var(--couleur--bleu-claire);
-}
-.btn {
-    background-color: var(--couleur-typo--violet);
+.errore404btn {
+    background-color: var(--couleur--rose);
     padding: 30px 61px;
     border-radius: 20px;
-    font-size: var(--typographie--button);
+    font-size: var(--button);
     text-align: center;
     display: block;
     margin: 43px 68px;
     text-decoration: none;
     color: var(--couleur-typo---noir);
+    font-weight: 700;
+    font-family:'Mulish', sans-serif; ;
 }
 .erroe404{
     color: var(--couleur-typo---noir);
@@ -18,28 +17,28 @@
 }
 .errore404__research {
     padding: 80px;
-    background-color: var(--couleur-typo--violet);
+    background-color: var(--couleur--bleu-foncé-1);
 }
 .errore404__entrer {
     margin-top: 4vh;
     margin-bottom: 4vh;
-    background-color: var(--couleur--blanc);
+    background-color: var(--couleur-typo--blanc);
     color: black;
 }
 .errore404__requete {
-    color: var(--couleur--blanc);
+    color:white;
     font-weight: bold;
     font-style: normal;
     font-size: 2rem;
     text-shadow: black 1px 0 10px;
 }
 .errore404__button {
-    font-size: var(--typographie--button);
+    font-size: var(--button);
     color: white;
-    background-color: var(--couleur--bleu-claire);
+    background-color: var(--couleur--bleu-foncé);
     padding: 2vh 3vh;
     border-color: black;
     border-width: 2px;
     border-style: solid;
     margin-left: 35px;
-} */
+}
