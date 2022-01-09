@@ -19,3 +19,6 @@ figure figcaption{
     padding-bottom: 30px;
     margin: 0 20px;
 }
+.image__article1{
+    max-width: 55%;
+}
