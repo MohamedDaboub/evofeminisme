@@ -1,5 +1,5 @@
 header {
-    background-color: #1D096B;
+    background-color: var(--couleur--bleu-foncé);
     display: flex;
 
 }

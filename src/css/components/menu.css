@@ -47,7 +47,7 @@
 /*Menu*/
 
 .menu {
-    background-color: #111F69;
+    background-color: var(--couleur--bleu-foncé-1);
     position: fixed;
     top: 0;
     left: 0;

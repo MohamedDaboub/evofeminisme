@@ -16,7 +16,7 @@ body .tweet p{
 }
 .tweet h2{
     color: white;
-    font-size: 23px;
+    font-size: 1.438rem;
     font-family: 'Basic', sans-serif;
     margin: 0 20px;
     padding: 14px ;
@@ -31,7 +31,7 @@ hr {
     margin-right: 20px;
 }
 .tweet{
-    background-color: #1D096B;
+    background-color: var(--couleur--bleu-foncé);
     color: #fff;
     text-decoration: none;
 }

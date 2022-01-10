@@ -1,6 +1,6 @@
 footer{
     box-sizing: border-box;
-    background-color: #1D096B;
+    background-color: var(--couleur--bleu-foncé);
     color: #fff;
     font-size: 15px;
     font-family: 'Raleway', sans-serif;

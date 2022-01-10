@@ -1,12 +1,12 @@
 figure{
-    background-color: #1D096B;
+    background-color: var(--couleur--bleu-foncé);
     font-size: 1rem;
     font-family: 'Mulish', sans-serif;
     font-weight: lighter;
     color: white;
 }
 h1{
-    background-color: #111F69;
+    background-color: var(--couleur--bleu-foncé-1);
     font-size: 2rem;
     font-family: 'Tinos', serif;
     color: white;
@@ -26,7 +26,7 @@ h1{
     color: black;
     margin: 1.5rem 1.25rem;
 }
-/* gloo=ssaire*/
+/* glossaire*/
 dt{
     font-family: 'Mulish', sans-serif;
     font-size: 1rem;
