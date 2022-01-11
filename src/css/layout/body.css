@@ -146,7 +146,7 @@ article a{
 }
 .depla1{
     margin-right: 0px;
-    margin-top: -150px;
+    margin-top: -135px;
 }
 .centre{
     margin: 1.25rem 6.5rem;
@@ -154,4 +154,7 @@ article a{
 
 .dwon{
     margin-bottom: 4rem;
+}
+.top{
+    margin-top: -173px;
 }
